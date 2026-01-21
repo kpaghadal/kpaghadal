@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kris Paghadal 👋
+# 👋 Hi, I'm Kris Paghadal
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer;Python+%26+Computer+Vision+Expert;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
@@ -16,26 +16,12 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Kris Paghadal"
-        self.role = "Software Developer"
-        self.languages = ["Python", "C#", "C++", "Dart"]
-        self.focus = "Computer Vision & AI"
-        
-    def current_status(self):
-        return {
-            "working_on": "Python & Computer Vision Projects",
-            "learning": "Advanced ML & Deep Learning",
-            "goal": "Building innovative AI solutions"
-        }
-```
 
 🔭 Currently working on computer vision and AI projects  
 🌱 Continuously learning advanced ML/DL techniques  
 💡 Passionate about solving complex problems with elegant code  
 🎯 Contributing to innovative AI solutions  
+🌍 Based in Rajkot, Gujarat, India  
 🗣️ Languages: English, Hindi, Gujarati
 
 ---
@@ -44,13 +30,13 @@ class Developer:
 
 <div align="center">
 
-### Languages & Core Technologies
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### AI/ML & Data Science
+### AI/ML & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -62,6 +48,7 @@ class Developer:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -76,10 +63,10 @@ class Developer:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kpaghadal&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kpaghadal&theme=tokyonight&hide_border=true&border_radius=10)
 
-<img src="https://github-readme-stats.vercel.app/api?username=kpaghadal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpaghadal&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kpaghadal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpaghadal&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Top Languages" />
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kpaghadal&theme=tokyo-night&hide_border=true&radius=10)
 
@@ -91,46 +78,49 @@ class Developer:
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [🔷 .NET Development](https://github.com/kpaghadal/.NET) | Enterprise-level applications and solutions | C#, .NET Framework |
-| [📱 Flutter Apps](https://github.com/kpaghadal/flutter1) | Cross-platform mobile applications | Flutter, Dart |
-| [⚡ Console Tools](https://github.com/kpaghadal/ConsoleApp3) | Command-line utilities and tools | C# |
-| [📚 Tutorials](https://github.com/kpaghadal/tutorials) | Educational resources and examples | Multiple Languages |
+| 🏗️ Project | 📝 Description | 💻 Tech Stack |
+|:-----------|:---------------|:--------------|
+| [.NET Development](https://github.com/kpaghadal/.NET) | Enterprise-level applications and solutions | `C#` `ASP.NET` `.NET Framework` |
+| [Flutter Applications](https://github.com/kpaghadal/flutter1) | Cross-platform mobile applications | `Flutter` `Dart` |
+| [Console Tools](https://github.com/kpaghadal/ConsoleApp3) | Command-line utilities and development tools | `C#` `.NET Core` |
+| [Learning Resources](https://github.com/kpaghadal/tutorials) | Educational materials and code examples | `Multiple Languages` |
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 💡 What I'm Up To
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kpaghadal&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6)
-
-</div>
+- 🔬 Exploring cutting-edge computer vision techniques
+- 🤖 Building AI-powered applications with real-world impact
+- 📚 Sharing knowledge through tutorials and open-source contributions
+- 🌟 Always open to collaborating on innovative projects
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects or discussing technology.  
-Feel free to reach out through any of these channels!
+I'm always excited to connect with fellow developers, discuss new ideas, or collaborate on interesting projects.  
+Don't hesitate to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kris-paghadal)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krispaghadal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krispaghadal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpaghadal)
 
----
+<br>
 
-### 💭 Random Dev Quote
+### 💭 Today's Dev Wisdom
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<br>
+
 ---
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>
