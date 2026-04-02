@@ -57,22 +57,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kpaghadal&theme=tokyonight&hide_border=true&border_radius=10)
-
-<img src="https://github-readme-stats.vercel.app/api?username=kpaghadal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpaghadal&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Top Languages" />
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kpaghadal&theme=tokyo-night&hide_border=true&radius=10)
-
-</div>
-
----
 
 ## 🎯 Featured Projects
 
@@ -109,13 +94,7 @@ Don't hesitate to reach out!
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krispaghadal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpaghadal)
 
-<br>
 
-### 💭 Today's Dev Wisdom
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br>
 
 ---
 
